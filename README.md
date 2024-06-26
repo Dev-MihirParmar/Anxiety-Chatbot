@@ -11,7 +11,7 @@
 ## Setup
 
 ### 1. Clone the repository:
-      git clone https://github.com/yourusername/anxiety-chatbot.git
+      git clone https://github.com/StaticTesseract07/anxiety-chatbot.git
       
       cd anxiety-chatbot
       
